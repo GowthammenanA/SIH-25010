@@ -1,8 +1,8 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
+# Date:26/09/2025
+## Register Number:25016033
 ## Name:
-## Problem Title
+ ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
 A majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.
@@ -41,28 +41,61 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+A smart, AI-powered advisory platform (mobile app and chatbot) that integrates soil, weather, and crop data to deliver localized, real-time recommendations to farmers in their native language. The solution includes:
 
-## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Personalized crop and fertilizer advice.
 
-## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Pest and disease detection through image recognition.
 
-## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Weather-based predictions and alerts.
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+Market price tracking for better selling decisions.
+
+Voice-based interaction for low-literate users.
+
+Data-driven feedback loop for continuous improvement.
+
+
+Technical Approach
+
+Technologies: AI/ML models for crop prediction, NLP for multilingual chatbots, image recognition for pest/disease detection, cloud-based architecture, and integration with government/market APIs.
+
+Implementation Methodology:
+
+Data collection (soil, weather, market).
+
+Model training for crop and fertilizer recommendation.
+
+Integration into mobile app with chatbot and voice support.
+
+Pilot testing with farmers in selected regions.
+
+Feedback-driven scaling across states.
+
+
+
+Feasibility and Viability
+
+Feasibility: Mobile phone penetration in rural India and government support for agri-tech initiatives make implementation practical.
+
+Challenges: Limited internet access, farmer adoption resistance, and multilingual accuracy.
+
+Mitigation Strategies: Offline-first app design, strong farmer training programs, collaboration with local extension officers, and continuous language model updates.
+
+
+Impact and Benefits
+
+Social: Empowers farmers with reliable, accessible knowledge.
+
+Economic: Increases yield, reduces input costs, and improves income.
+
+Environmental: Promotes efficient use of fertilizers and pesticides, reducing environmental harm.
+
+
+Research and References
+
+NABARD Report (2022): Small and marginal farmers constitute 86% of Indian farming population.
+
+FAO Studies: ICT-based advisories improve yield by 20–30%.
+
+ICAR Research: Scientific advisory reduces pesticide misuse and soil degradation.
